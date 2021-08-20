@@ -10,7 +10,7 @@ window.addEventListener("DOMContentLoaded", function () {
     function success() {
       form.reset();
       status.classList.add("success");
-      status.innerHTML = "Thanks!";
+
       window.location = "https://www.manobik.cf/mail1/mail.html";
     }
   
