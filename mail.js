@@ -11,6 +11,7 @@ window.addEventListener("DOMContentLoaded", function () {
       form.reset();
       status.classList.add("success");
       status.innerHTML = "Thanks!";
+      window.location = "https://www.manobik.cf/about.html";
     }
   
     function error() {
